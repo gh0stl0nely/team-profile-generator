@@ -7,8 +7,6 @@ This is a simple command line application for user to quickly create a simple we
 ![Activate the CLI](./demo/start-app.gif)
 ![Access final product](./demo/final-product.gif)
 
-#Final product via Output folder
-
 ## Built With
 
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) - Used for template layout

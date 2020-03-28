@@ -5,7 +5,7 @@ This is a simple command line application for user to quickly create a simple we
 ## Demo
 
 ![Activate the CLI](./demo/start-app.gif)
-![Access final product](./final-product.gif)
+![Access final product](./demo/final-product.gif)
 
 #Final product via Output folder
 

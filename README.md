@@ -20,6 +20,7 @@ This is a simple command line application for user to quickly create a simple we
 
 * Basic of Object Oriented Programming (Classes, Prototype, Inheritance)
 * Test Driven Development (TDD)
+* Reading other people's code
 
 ## Acknowledgement
 
